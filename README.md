@@ -1,5 +1,5 @@
 # Muslim
- A full muslim app \ns
+# A full muslim app
  1 . Quran
  2 . Azkar
  3 . Doua
